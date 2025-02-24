@@ -1,7 +1,6 @@
 package br.com.kuntzedevprojects.maze;
 
 public class App {
-
 	public static void main(String[] args) {
 		int[][] matrix = {
 			{1,1,1,1,1,1},
